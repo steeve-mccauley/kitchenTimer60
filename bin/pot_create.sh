@@ -1,20 +1,24 @@
 #!/bin/bash
+#
+# pot_create.sh
+#
+# dnf install gettext-devel intltool
 
 ME=$(basename $0)
 MD=$(cd $(dirname $0); pwd)
 
 echo $MD
-cd $MD/../kitchentimer@blackjackshellac.ca
+cd $MD/../kitchentimer60@blackjackshellac.ca
 [ $? -ne 0 ] && echo "Failed to change to extension directory" && exit 1
 
 echo Working in $(pwd)
 
-pot='po/kitchen-timer-blackjackshellac.pot'
+pot='po/kitchen-timer-60-blackjackshellac.pot'
 opts="--from-code=UTF-8 -F -j --output=$pot"
 #opts="$opts --copyright-holder=SteeveMcCauley"
 #--foreign-user
 #omit FSF copyright in output for foreign user
-opts="$opts --package-name=kitchen-timer-blackjackshellac"
+opts="$opts --package-name=kitchen-60-timer-blackjackshellac"
 #opts="$opts --package-version='5'"
 files="*.js *.ui schemas/*.xml"
 
@@ -41,7 +45,7 @@ $cmd
 sed -i 's/SOME DESCRIPTIVE TITLE./Kitchen Timer/' $pot
 sed -i 's/YEAR THE PACKAGE.S COPYRIGHT HOLDER/2021, Steeve McCauley/' $pot
 sed -i 's/FIRST AUTHOR/Steeve McCauley/' $pot
-sed -i 's/EMAIL.ADDRESS/steeve.mccauley@gmail.com/' $pot
+sed -i 's/EMAIL.ADDRESS/steeve.mccauley60@gmail.com/' $pot
 sed -i 's/FULL NAME/Steeve McCauley/' $pot
 sed -i 's/, YEAR./, 2001/' $pot
 now=$(date "+%Y-%m-%d %H:%M%z")

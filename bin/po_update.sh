@@ -1,10 +1,12 @@
 #!/bin/bash
-
+#
+# po_update.sh
+#
 ME=$(basename $0)
 MD=$(cd $(dirname $0); pwd)
 
 echo $MD
-cd $MD/../kitchentimer@blackjackshellac.ca/po
+cd $MD/../kitchentimer60@blackjackshellac.ca/po
 [ $? -ne 0 ] && echo "Failed to change to extension po directory" && exit 1
 
 echo Working in $(pwd)

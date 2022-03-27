@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KitchenTimer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-18 11:18-0400\n"
+"POT-Creation-Date: 2022-03-27 17:22-0400\n"
 "PO-Revision-Date: 2021-05-14 06:10-0400\n"
 "Last-Translator: Steeve McCauley <steeve.mccauley@gmail.com>\n"
 "Language-Team: French <steeve.mccauley@gmail.com>\n"
@@ -19,9 +19,80 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
+#: ../hms.js:141
+msgid "seconds"
+msgstr "secondes"
+
+#: ../hms.js:144
+msgid "minutes"
+msgstr "minutes"
+
+#: ../hms.js:149
+msgid "hours"
+msgstr "heures"
+
 #: ../indicator.js:47 ../settings.ui:1040
 msgid "Kitchen Timer"
 msgstr "Kitchen Timer"
+
+#: ../menuitem.js:49
+msgid "Create Preset"
+msgstr "Créer un préréglage"
+
+#: ../menuitem.js:60 ../menuitem.js:555
+msgid "Name 00:00:00"
+msgstr "Nom 00:00:00"
+
+#: ../menuitem.js:76
+msgid "Create"
+msgstr "Créer"
+
+#: ../menuitem.js:488
+msgid "Show end time"
+msgstr "Afficher l'heure de fin"
+
+#: ../menus.js:107
+msgid "Running timers"
+msgstr "Minuteries en cours"
+
+#: ../menus.js:120
+msgid "Quick timers"
+msgstr "Minuteries pratiques"
+
+#: ../menus.js:144
+msgid "Preset timers"
+msgstr "Minuteries préréglées"
+
+#: ../notifier.js:263
+#, javascript-format
+msgid "Restart timer %s"
+msgstr "Redémarrer la minuterie %s"
+
+#: ../prefs.js:170
+msgid "New timer"
+msgstr "Nouvelle minuterie"
+
+#: ../prefs.js:564
+msgid "Sound file"
+msgstr "Fichier son"
+
+#: ../prefs.js:594 ../prefs.js:608
+msgid "Export"
+msgstr "Exporter"
+
+#: ../prefs.js:644
+#, javascript-format
+msgid "Exported settings to %s"
+msgstr "Les paramètres ont été exportés vers %s"
+
+#: ../prefs.js:677
+msgid "Import"
+msgstr "Importer"
+
+#: ../prefs.js:706
+#, javascript-format
+msgid "Imported settings from %s"
+msgstr "Les paramètres ont été importés du %s"
 
 #: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:41
 msgid "Show a notification when a timer ends"
@@ -474,77 +545,6 @@ msgstr "Minutes"
 #: ../settings40.ui:1242
 msgid "About"
 msgstr "À propos"
-
-#: ../menus.js:107
-msgid "Running timers"
-msgstr "Minuteries en cours"
-
-#: ../menus.js:120
-msgid "Quick timers"
-msgstr "Minuteries pratiques"
-
-#: ../menus.js:144
-msgid "Preset timers"
-msgstr "Minuteries préréglées"
-
-#: ../hms.js:141
-msgid "seconds"
-msgstr "secondes"
-
-#: ../hms.js:144
-msgid "minutes"
-msgstr "minutes"
-
-#: ../hms.js:149
-msgid "hours"
-msgstr "heures"
-
-#: ../prefs.js:170
-msgid "New timer"
-msgstr "Nouvelle minuterie"
-
-#: ../prefs.js:564
-msgid "Sound file"
-msgstr "Fichier son"
-
-#: ../prefs.js:594 ../prefs.js:608
-msgid "Export"
-msgstr "Exporter"
-
-#: ../prefs.js:644
-#, javascript-format
-msgid "Exported settings to %s"
-msgstr "Les paramètres ont été exportés vers %s"
-
-#: ../prefs.js:677
-msgid "Import"
-msgstr "Importer"
-
-#: ../prefs.js:706
-#, javascript-format
-msgid "Imported settings from %s"
-msgstr "Les paramètres ont été importés du %s"
-
-#: ../menuitem.js:49
-msgid "Create Preset"
-msgstr "Créer un préréglage"
-
-#: ../menuitem.js:60 ../menuitem.js:555
-msgid "Name 00:00:00"
-msgstr "Nom 00:00:00"
-
-#: ../menuitem.js:76
-msgid "Create"
-msgstr "Créer"
-
-#: ../menuitem.js:488
-msgid "Show end time"
-msgstr "Afficher l'heure de fin"
-
-#: ../notifier.js:263
-#, javascript-format
-msgid "Restart timer %s"
-msgstr "Redémarrer la minuterie %s"
 
 #: ../timers.js:377
 msgid "Duplicate timer is already running"
