@@ -4,6 +4,8 @@
 #
 # dnf install gettext-devel intltool
 
+# ./bin/pot_create.sh
+
 ME=$(basename $0)
 MD=$(cd $(dirname $0); pwd)
 

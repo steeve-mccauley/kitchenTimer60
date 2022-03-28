@@ -1,14 +1,15 @@
 {
-  "name": "Kitchen Timer",
+  "name": "Kitchen Timer 60",
   "description": "General purpose timer extension for Gnome Shell\n\nPlease report issues on github\nIf updating the extension reports an ERROR, it should work after the next reboot or if you logout and login again.",
-  "uuid": "kitchentimer@blackjackshellac.ca",
+  "uuid": "kitchentimer60@blackjackshellac.ca",
   "shell-version": [
     "3.36",
     "3.38",
-	"40"
+	"40",
+	"41"
   ],
-  "gettext-domain": "kitchen-timer-blackjackshellac",
-  "settings-schema": "org.gnome.shell.extensions.kitchen-timer-blackjackshellac",
-  "url": "https://github.com/blackjackshellac/kitchenTimer",
-  "version": 29
+  "gettext-domain": "kitchen-timer-60-blackjackshellac",
+  "settings-schema": "org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac",
+  "url": "https://github.com/steeve-mccauley/kitchenTimer60",
+  "version": 30
 }

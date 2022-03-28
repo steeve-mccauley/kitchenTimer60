@@ -9,8 +9,8 @@ Clone the repository and then run install_local.sh
 ```
 mkdir ~/github
 cd ~/github
-git clone https://github.com/blackjackshellac/kitchenTimer.git
-cd kitchenTimer
+git clone https://github.com/steeve-mccauley/kitchenTimer60.git
+cd kitchenTimer60
 ./install_local.sh
 ```
 

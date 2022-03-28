@@ -5,7 +5,7 @@ MD="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 SCHEMA_DIR=$(cd $MD/../schemas; pwd)
 
 bin=gschemas.compiled
-xml=org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml
+xml=org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml
 
 if [ $xml -nt $bin ]; then
 	echo glib-compile-schemas --strict $SCHEMA_DIR

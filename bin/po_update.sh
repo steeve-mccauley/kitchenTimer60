@@ -2,6 +2,9 @@
 #
 # po_update.sh
 #
+
+# ./bin/po_update.sh
+
 ME=$(basename $0)
 MD=$(cd $(dirname $0); pwd)
 

@@ -2,6 +2,8 @@
 
 #Kitchen_Timer_3_38_ver6
 
+# ./bin/git_tag.sh
+
 ME=$(basename $0)
 MD=$(cd $(dirname $0); pwd)
 
