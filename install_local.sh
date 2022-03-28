@@ -19,7 +19,8 @@
 
 ME=$(basename $0)
 MD=$(dirname $0)
-ED=kitchentimer@blackjackshellac.ca
+
+ED=kitchentimer60@blackjackshellac.ca
 USR_SHARE=~/.local/share
 ICONS=$USR_SHARE/icons/hicolor
 EXTENSIONS=$USR_SHARE/gnome-shell/extensions

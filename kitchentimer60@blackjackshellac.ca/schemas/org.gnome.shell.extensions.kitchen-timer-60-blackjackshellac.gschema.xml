@@ -33,9 +33,9 @@ aa{sv}
 
 https://developer.gnome.org/glib/stable/gvariant-text.html
 -->
-<schemalist gettext-domain="kitchen-timer-blackjackshellac">
-  <schema id="org.gnome.shell.extensions.kitchen-timer-blackjackshellac"
-          path="/org/gnome/shell/extensions/kitchen-timer-blackjackshellac/">
+<schemalist gettext-domain="kitchen-timer-60-blackjackshellac">
+  <schema id="org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac"
+          path="/org/gnome/shell/extensions/kitchen-timer-60-blackjackshellac/">
     <key name="notification" type="b">
       <default>true</default>
       <summary>Show a notification when a timer ends</summary>

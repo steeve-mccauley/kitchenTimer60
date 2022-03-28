@@ -8,10 +8,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KitchenTimer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-27 17:22-0400\n"
+"POT-Creation-Date: 2022-03-28 10:54-0400\n"
 "PO-Revision-Date: 2021-05-14 06:10-0400\n"
-"Last-Translator: Steeve McCauley <steeve.mccauley@gmail.com>\n"
-"Language-Team: French <steeve.mccauley@gmail.com>\n"
+"Last-Translator: Steeve McCauley <steeve.mccauley60@gmail.com>\n"
+"Language-Team: French <steeve.mccauley60@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -94,15 +94,15 @@ msgstr "Importer"
 msgid "Imported settings from %s"
 msgstr "Les paramètres ont été importés du %s"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:41
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:41
 msgid "Show a notification when a timer ends"
 msgstr "Afficher une notification à la fin de la minuterie"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:46
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:46
 msgid "Inhibit screen lock"
 msgstr "Désactiver le verrouillage de l'écran"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:47
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:47
 msgid ""
 "0 - off 1 - Inhibit logging out 2 - Inhibit user switching 4 - Inhibit "
 "suspending the session or computer 8 - Inhibit the session being marked as "
@@ -112,122 +112,122 @@ msgstr ""
 "suspending the session or computer 8 - Inhibit the session being marked as "
 "idle"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:57
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:57
 msgid "Maximum amount of time to inhibit screen lock, in seconds"
 msgstr "Temps maximum pour empêcher le verrouillage de l'écran, en secondes"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:58
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:58
 msgid "0 is no maximum, positive integer specifies the number of seconds"
 msgstr ""
 "0 n'est pas un maximum, une valeur positive spécifie le nombre de secondes"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:63
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:63
 msgid "Make the notification wait for input"
 msgstr "Faire attendre la notification pour l'entrée de l'utilisateur"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:68
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:68
 msgid "Long timeout for sticky notifications, default is 30 seconds"
 msgstr ""
 "Long délai d'attente pour les notifications persistantes, la valeur par "
 "défaut est de 30 secondes"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:72
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:72
 msgid "Show the time when the timer will expire rather than the countdown"
 msgstr ""
 "Afficher le temps lorsque la minuterie expirera plutôt que le compte à "
 "rebours"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:76
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:76
 msgid "Show time remaining in panel menu"
 msgstr "Afficher le temps restant dans le panneau"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:80
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:80
 msgid "Show timer progress in panel menu"
 msgstr "Afficher la progression de la minuterie dans le panneau"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:84
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:84
 msgid "Show timer name in panel menu"
 msgstr "Afficher le nom de la minuterie dans le panneau"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:88
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:88
 msgid "Play sound notifications"
 msgstr "Jouer les sons de notification"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:93
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:93
 msgid "Number of times to ring alarm sound, 0 is the duration of notification"
 msgstr "Nombre de sonneries d'alarme, 0 est la durée de la notification"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:97
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:97
 msgid "Path to sound file"
 msgstr "Chemin vers le fichier son"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:102
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:102
 msgid "Default length of timer in seconds"
 msgstr "Durée par défaut de la minuterie en secondes"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:106
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:106
 msgid "Array of Timer descriptions"
 msgstr "Tableau de descriptions de minuterie"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:110
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:110
 msgid "Array of Quick Timer descriptions"
 msgstr "Table of descriptions of convenient timers"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:114
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:114
 msgid "timers configuration stored as json"
 msgstr "configuration des minuteries stockée en tant que json"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:115
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:115
 msgid "Experimental feature for storing timer data"
 msgstr "Fonction expérimentale de stockage des données de minuterie"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:119
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:119
 msgid "Sort list of timers by duration"
 msgstr "Trier la liste des minuteries par durée"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:123
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:123
 msgid "Sort from longest to shortest"
 msgstr "Trier du plus long au plus court"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:127
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:127
 msgid "Save quick timers between sessions if enabled"
 msgstr "Enregistrer des minuteries pratiques entre les sessions si activé"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:131
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:131
 msgid "Prevent creation of duplicate timers of the same type"
 msgstr "Eviter la création de minuteries en double du même type"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:135
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:135
 msgid "State of running timers as json string"
 msgstr "État des minuteries en cours d'exécution comme json"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:140
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:140
 msgid "Low volume threshold in percent"
 msgstr "Limite de volume faible en pourcentage"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:145
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:145
 msgid ""
 "Heuristic counter to prefer displaying the quick or preset menus expanded"
 msgstr ""
 "Compteur heuristique pour préférer afficher les menus rapides ou préréglées"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:149
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:149
 msgid "Warn if volume levels are below threshold"
 msgstr "Avertir si les niveaux de volume sont inférieurs au seuil"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:153
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:153
 msgid "Turn on debugging"
 msgstr "Activer le débogage"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:157
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:157
 msgid "Enable keyboard shortcuts"
 msgstr "Activer les raccourcis clavier"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:161
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:161
 msgid "Keyboard shortcut for toggling show-end-time setting"
 msgstr "Accélérateur de clavier pour basculer le paramètre show-end-time"
 
-#: ../schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml:165
+#: ../schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml:165
 msgid "Keyboard shortcut to stop the next timer to expire"
 msgstr "Accélérateur de clavier pour arrêter la prochaine minuterie à expirer"
 

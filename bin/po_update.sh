@@ -23,5 +23,5 @@ rm messages.po
 
 cd ..
 echo Working in $(pwd)
-msgfmt -v po/$po -o locale/$lang/LC_MESSAGES/kitchen-timer-blackjackshellac.mo
+msgfmt -v po/$po -o locale/$lang/LC_MESSAGES/kitchen-timer-60-blackjackshellac.mo
 

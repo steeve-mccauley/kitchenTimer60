@@ -19,6 +19,6 @@ done
 
 eso="$eso --extra-source=./icons/ --extra-source=./bin/"
 
-cmd="gnome-extensions pack --podir=po/ --schema=schemas/org.gnome.shell.extensions.kitchen-timer-blackjackshellac.gschema.xml --gettext-domain=kitchen-timer-blackjackshellac $eso -o ../ --force"
+cmd="gnome-extensions pack --podir=po/ --schema=schemas/org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac.gschema.xml --gettext-domain=kitchen-timer-60-blackjackshellac $eso -o ../ --force"
 echo $cmd
 $cmd

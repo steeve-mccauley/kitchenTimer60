@@ -18,7 +18,7 @@ opts="--from-code=UTF-8 -F -j --output=$pot"
 #opts="$opts --copyright-holder=SteeveMcCauley"
 #--foreign-user
 #omit FSF copyright in output for foreign user
-opts="$opts --package-name=kitchen-60-timer-blackjackshellac"
+opts="$opts --package-name=kitchen-timer-60-blackjackshellac"
 #opts="$opts --package-version='5'"
 files="*.js *.ui schemas/*.xml"
 
@@ -42,7 +42,7 @@ $cmd
 # "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 # "Language-Team: LANGUAGE <LL@li.org>\n"
 
-sed -i 's/SOME DESCRIPTIVE TITLE./Kitchen Timer/' $pot
+sed -i 's/SOME DESCRIPTIVE TITLE./Kitchen Timer 60/' $pot
 sed -i 's/YEAR THE PACKAGE.S COPYRIGHT HOLDER/2021, Steeve McCauley/' $pot
 sed -i 's/FIRST AUTHOR/Steeve McCauley/' $pot
 sed -i 's/EMAIL.ADDRESS/steeve.mccauley60@gmail.com/' $pot
