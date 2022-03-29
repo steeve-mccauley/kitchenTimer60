@@ -19,7 +19,7 @@
 const { Gio, Gtk, Gdk, GLib } = imports.gi;
 const ByteArray = imports.byteArray;
 
-const GETTEXT_DOMAIN = 'kitchen-timer-blackjackshellac';
+const GETTEXT_DOMAIN = 'kitchen-timer-60-blackjackshellac';
 const Gettext = imports.gettext.domain(GETTEXT_DOMAIN);
 const _ = Gettext.gettext;
 
