@@ -452,8 +452,8 @@ class PreferencesBuilder {
         this._about_clicks = this._spawn_dconf_config(this._about_clicks);
       });
 
-      let bmac = Gtk.Picture.new_for_filename(Me.dir.get_path()+'/icons/bmc_logo_wordmark.svg');
-      this._bo('link_bmac').set_child(bmac);
+      //let bmac = Gtk.Picture.new_for_filename(Me.dir.get_path()+'/icons/bmc_logo_wordmark.svg');
+      //this._bo('link_bmac').set_child(bmac);
     }
 
     // bind all checkboxes to settings
