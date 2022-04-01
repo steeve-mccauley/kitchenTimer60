@@ -30,7 +30,7 @@ There are currently two global keyboard shortcuts, which can be enabled in Prefe
 It is possible to edit the shortcuts in dconf-editor, or with the following script,
 
 ```
-$ kitchentimer@blackjackshellac.ca/bin/dconf-editor.sh
+$ kitchentimer60@blackjackshellac.ca/bin/dconf-editor.sh
 ```
 
 ## Alarm timers
@@ -59,14 +59,6 @@ for example, to create an alarm timer that goes off at 5am tomorrow,
 Click the regular timer icon for a running timer to make the alarm persistent, the icon will change to an alarm clock.  Here the pool timer alarm will ring persistently until the notification is closed.  The tea alarm will ring as defined in the play sound setting.
 
 ![image](https://user-images.githubusercontent.com/825403/118677121-ff08ac00-b7c9-11eb-9259-b19ed468b44c.png)
-
-
-## Support
-
-Feel free to support this effort if you can
-
-[<img src="https://raw.githubusercontent.com/blackjackshellac/kitchenTimer/main/img/bmc_logo_wordmark_25.png" alt="Buy Me A Coffee" width="150"/>](https://www.buymeacoffee.com/blckjackshellac)
-
 
 ## References
 

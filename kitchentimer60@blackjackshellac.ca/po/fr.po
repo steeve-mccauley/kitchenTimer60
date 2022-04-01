@@ -2,7 +2,7 @@
 # Copyright (C) 2021, Steeve McCauley
 # This file is distributed under the same license as the Kitchen Timer package.
 # Automatically generated, 2021.
-# Steeve McCauley <steeve.mccauley@gmail.com>, 2021.
+# Steeve McCauley <steeve.mccauley60@gmail.com>, 2021.
 #
 msgid ""
 msgstr ""
@@ -517,8 +517,8 @@ msgid "Copyright © 2021, Steeve McCauley"
 msgstr "Copyright © 2021, Steeve McCauley"
 
 #: ../settings.ui:1126 ../settings40.ui:1355
-msgid "https://github.com/blackjackshellac/kitchenTimer"
-msgstr "https://github.com/blackjackshellac/kitchenTimer"
+msgid "https://github.com/steeve-mccauley/kitchenTimer60"
+msgstr "https://github.com/steeve-mccauley/kitchenTimer60"
 
 #: ../settings.ui:1144
 msgid ""
