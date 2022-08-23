@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kitchen-timer-60-blackjackshellac\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-30 17:34-0400\n"
-"PO-Revision-Date: 2022-03-30 17:34-0400\n"
+"POT-Creation-Date: 2022-08-23 10:38-0400\n"
+"PO-Revision-Date: 2022-08-23 10:38-0400\n"
 "Last-Translator: Steeve McCauley <steeve.mccauley60@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1198,11 +1198,15 @@ msgstr ""
 #: settings.ui:727 settings.ui:734 settings.ui:736 settings.ui:749
 #: settings.ui:774 settings.ui:775 settings.ui:805 settings.ui:904
 #: settings.ui:910 settings.ui:956 settings.ui:988 settings.ui:996
-#: settings.ui:1068 settings.ui:1073 settings.ui:1182 settings.ui:1187
-#: settings.ui:1243 settings.ui:1247 settings.ui:1257 settings.ui:1258
-#: settings.ui:1268 settings.ui:1290
+#: settings.ui:1068 settings.ui:1073 settings.ui:1166 settings.ui:1182
+#: settings.ui:1187 settings.ui:1243 settings.ui:1247 settings.ui:1257
+#: settings.ui:1258 settings.ui:1268 settings.ui:1290
 msgctxt "about"
 msgid "About"
+msgstr ""
+
+#: settings.ui:1126 settings40.ui:1355
+msgid "https://github.com/blackjackshellac/kitchenTimer"
 msgstr ""
 
 #: settings.ui:1222

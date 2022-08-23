@@ -3,10 +3,10 @@
   "description": "General purpose timer extension for Gnome Shell\n\nPlease report issues on github\nIf updating the extension reports an ERROR, it should work after the next reboot or if you logout and login again.",
   "uuid": "kitchentimer60@blackjackshellac.ca",
   "shell-version": [
-    "3.36",
     "3.38",
 "40",
-	"41"
+	"41",
+	"42"
   ],
   "gettext-domain": "kitchen-timer-60-blackjackshellac",
   "settings-schema": "org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac",
