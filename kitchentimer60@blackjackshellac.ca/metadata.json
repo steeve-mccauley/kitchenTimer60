@@ -6,7 +6,8 @@
     "3.38",
 "40",
 	"41",
-	"42"
+	"42",
+	"43"
   ],
   "gettext-domain": "kitchen-timer-60-blackjackshellac",
   "settings-schema": "org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac",
