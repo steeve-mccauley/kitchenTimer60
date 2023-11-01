@@ -4,11 +4,11 @@
   "uuid": "kitchentimer60@blackjackshellac.ca",
   "shell-version": [
     "3.38",
-"40",
-	"41",
-	"42",
-	"43",
-	"44"
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
   ],
   "gettext-domain": "kitchen-timer-60-blackjackshellac",
   "settings-schema": "org.gnome.shell.extensions.kitchen-timer-60-blackjackshellac",
